@@ -1,1 +1,1 @@
-# custom printf function built with c
+# custom printf function built just like printf in C
